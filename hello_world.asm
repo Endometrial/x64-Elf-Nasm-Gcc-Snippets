@@ -1,6 +1,10 @@
 ;
-; nasm -f elf64 *.asm
-; gcc -m64 *.obj -o a.out
+; Name: hello_world.asm
+;
+; Auth: Luna M, Hazel
+; Date: July 2, 2022
+; Desc: Prints "Hello, Elf64 Nasm Gcc
+; Assembly!" and exits.
 ;
 
 extern printf ; The C funtion to be called

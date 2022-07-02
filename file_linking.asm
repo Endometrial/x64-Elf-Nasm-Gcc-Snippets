@@ -1,3 +1,12 @@
+;
+; Name: file_linking.asm
+;
+; Auth: Luna M, Hazel
+; Date: July 2, 2022
+; Desc: Calls the hello_world function
+; from "hello_world_function.asm"
+;
+
 %include "hello_world_function.asm"
 
 section .text

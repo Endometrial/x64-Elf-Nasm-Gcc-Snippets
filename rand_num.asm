@@ -1,3 +1,12 @@
+;
+; Name: rand_num.asm
+;
+; Auth: Luna M, Hazel
+; Date: July 2, 2022
+; Desc: Generates a random number from
+; 1 to 10 using the time() as a seed.
+;
+
 extern rand, srand, printf, time
 
 section .data

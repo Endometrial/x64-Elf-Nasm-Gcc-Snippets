@@ -1,6 +1,11 @@
 ;
-; nasm -f elf64 *.asm
-; gcc -m64 *.obj -o a.out
+; Name: float_math.asm
+;
+; Auth: Luna M, Hazel
+; Date: July 2, 2022
+; Desc: Does some simple addition and
+; subtraction with floating point 
+; numbers and prints the result
 ;
 
 extern printf

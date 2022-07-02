@@ -1,3 +1,13 @@
+;
+; Name: hello_world_function.asm
+;
+; Auth: Luna M, Hazel
+; Date: July 2, 2022
+; Desc: Prints "Hello world!" when
+; hello_world is called from another
+; program
+;
+
 extern printf
 
 section .data
