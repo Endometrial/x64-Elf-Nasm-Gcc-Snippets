@@ -3,9 +3,9 @@
 ;
 ; Auth: Luna M, Hazel
 ; Date: July 2, 2022
-; Desc: Does some simple addition and
-; subtraction with floating point 
-; numbers and prints the result
+; Desc: Does some simple arithmatic
+; with floating point numbers and
+; prints the result
 ;
 
 extern printf
