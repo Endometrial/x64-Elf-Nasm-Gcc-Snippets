@@ -1,7 +1,7 @@
 ;
 ; Name: hello_world_function.asm
 ;
-; Auth: Luna M, Hazel
+; Auth: Radiotrophia
 ; Date: July 2, 2022
 ; Desc: Prints "Hello world!" when
 ; hello_world is called from another
