@@ -1,7 +1,7 @@
 ;
 ; Name: file_linking.asm
 ;
-; Auth: Radiotrophia
+; Auth: Luna M, Hazel
 ; Date: July 2, 2022
 ; Desc: Calls the hello_world function
 ; from "hello_world_function.asm"

@@ -1,7 +1,7 @@
 ;
 ; Name: rand_num.asm
 ;
-; Auth: Radiotrophia
+; Auth: Luna M, Hazel
 ; Date: July 2, 2022
 ; Desc: Generates a random number from
 ; 1 to 10 using time() as a seed.

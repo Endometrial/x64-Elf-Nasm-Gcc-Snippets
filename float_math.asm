@@ -1,7 +1,7 @@
 ;
 ; Name: float_math.asm
 ;
-; Auth: Radiotrophia
+; Auth: Luna M, Hazel
 ; Date: July 2, 2022
 ; Desc: Does some simple arithmatic
 ; with floating point numbers and

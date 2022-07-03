@@ -1,7 +1,7 @@
 ;
 ; Name: hello_world.asm
 ;
-; Auth: Radiotrophia
+; Auth: Luna M, Hazel
 ; Date: July 2, 2022
 ; Desc: Prints "Hello, Elf64 Nasm Gcc
 ; Assembly!" and exits.
