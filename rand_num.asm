@@ -27,7 +27,7 @@ main:
 	call rand
 	
 	
-	mov	rdi,	num	; Sed rdi to num
+	mov	rdi,	num	; Set rdi to num
 	mov	rdx,	0	; Clear rdx
 	div	rdi		; Divide eax by rdi  aka  rand() / num
         mov	rax,	rdx	; Set rax to the remainder (remainer is put into rdx)
