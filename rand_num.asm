@@ -22,10 +22,9 @@ main:
 	call time
 
 	mov	rdi,	rax	; output of time(NULL)
-	call srand
+	call srand		; Seed the random number generator with the current time
 
-	call rand
-	
+	call rand		; Generate a random number
 	
 	mov	rdi,	num	; Set rdi to num
 	mov	rdx,	0	; Clear rdx
@@ -37,7 +36,7 @@ main:
 	mov	rsi,	rax
 	mov	rdi,	fmt
 	mov	rax,	0x1
-	call printf
+	call printf		; Print the number to stdout
 
 	pop	rbp
 	mov	rax,	0x0
